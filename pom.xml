@@ -9,6 +9,8 @@
     <groupId>groupId</groupId> //
 
 <!-- seeing changes in main branch -->
+
+    <!-- Intellij code branch -->
     <groupId>groupId</groupId>
  main
     <artifactId>SeleniumProject</artifactId>
@@ -18,5 +20,5 @@
         <maven.compiler.source>12</maven.compiler.source>
         <maven.compiler.target>12</maven.compiler.target>
     </properties>
-    
+
 </project>
